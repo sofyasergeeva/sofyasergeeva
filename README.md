@@ -1,16 +1,26 @@
-## Hi there 👋
+# Сергеева Софья
 
-<!--
-**sofyasergeeva/sofyasergeeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разработчик C# / .NET. Студент ГАПОУ «Оренбургский колледж экономики и информатики» (09.02.07 «Информационные системы и программирование»).
+Специализация: разработка десктопных приложений, проектирование реляционных баз данных, архитектура ПО.
 
-Here are some ideas to get you started:
+## Проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [WebControl — АИС управления заказами веб-студии](https://github.com/sofyasergeeva/webcontrol-ais)
+Десктопное приложение для автоматизации учета заказов и задач.
+- **Стек:** C#, WPF, Entity Framework Core, MS SQL Server, BCrypt.
+- **Реализовано:** ролевая модель, прогрессивный расчет скидок, фиксация исторических цен, автоматизация статусов, нормализация БД до 3НФ.
+
+### [Love Fist — Сервис знакомств](https://github.com/sofyasergeeva/love-fist-app)
+Приложение для поиска партнеров на основе геолокации и интересов.
+- **Стек:** C#, WPF, Entity Framework Core, SQL Server LocalDB, LINQ.
+- **Реализовано:** система взаимных лайков, фильтрация анкет, редактирование сообщений, справочные данные.
+
+## Технологический стек
+- **Языки:** C#, SQL
+- **Фреймворки:** .NET 8.0/9.0, WPF, Entity Framework Core
+- **БД:** Microsoft SQL Server, LocalDB
+- **Инструменты:** Visual Studio 2022, Git, GitHub
+
+## Контакты
+- **Email:** petrovich.kruglyash@mail.ru
+- **Telegram:** @prikolflip
