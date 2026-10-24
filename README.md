@@ -5,6 +5,14 @@
 
 ## Проекты
 
+### [ОКЭИ ПЕЧАТЬ | Система управления заказами типографии](https://github.com/sofyasergeeva/okei-pechat)
+Веб-приложение для оформления и обработки заказов типографии колледжа.
+
+<img src="https://raw.githubusercontent.com/sofyasergeeva/okei-pechat/main/docs/screenshots/home.webp" alt="Главная страница кабинета заказчика ОКЭИ ПЕЧАТЬ" width="740">
+
+- **Стек:** JavaScript, HTML, CSS, Node.js, Express, SQLite, Docker.
+- **Реализовано:** личные кабинеты заказчика и сотрудника, загрузка PDF, расчёт стоимости печати, конструктор мерча, управление заказами, распределение задач между сотрудниками и администрирование.
+
 ### [WebControl — АИС управления заказами веб-студии](https://github.com/sofyasergeeva/webcontrol-ais)
 Десктопное приложение для автоматизации учета заказов и задач.
 - **Стек:** C#, WPF, Entity Framework Core, MS SQL Server, BCrypt.
